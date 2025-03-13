@@ -114,6 +114,6 @@ function App() {
       <Toaster richColors />
     </main>
   );
-}
+};
 
 export default App;
