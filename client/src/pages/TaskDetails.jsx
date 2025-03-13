@@ -1,9 +1,9 @@
 import React from 'react'
 
-const TaskDetail = () => {
+const TaskDetails = () => {
   return (
     <div>TaskDetails</div>
   )
 }
 
-export default TaskDetail
+export default TaskDetails
