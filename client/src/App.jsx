@@ -13,7 +13,7 @@ import Tasks from "./pages/Tasks";
 import Trash from "./pages/Trash";
 import Users from "./pages/Users";
 import Dashboard from "./pages/dashboard";
-import { setOpenSidebar } from "./redux/slices/authSlice";
+import { setOpenSidebar } from "./redux/slices/authSlice"
 
 function Layout() {
   const { user } = useSelector((state) => state.auth);
